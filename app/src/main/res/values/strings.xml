@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestActiviti</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nombre">nombre</string>
+    <string name="login">login</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="listar">listar</string>
+    <string name="title_activity_save_person">SavePersonActivity</string>
+    <string name="name">name</string>
+    <string name="guardar">guardar</string>
+    <string name="agregar">agregar</string>
+</resources>
